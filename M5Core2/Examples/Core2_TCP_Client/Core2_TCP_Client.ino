@@ -25,8 +25,8 @@
 #define SERVER "192.168.0.14"
 #define PORT 6543
 
-const char *ssid = "Vilmer24E";
-const char *password = "B3y0nd*H3ll";
+const char *ssid = "ssid";
+const char *password = "password";
 WiFiMulti WiFiMulti;
 
 // Data we will send and receive
